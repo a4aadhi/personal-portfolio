@@ -13,17 +13,26 @@ const About = () => {
           </p>
           <div>
             <p className=" text-xl mt-20 ">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam
-              nesciunt alias cumque dolore. Non consectetur quas, vel aliquid
-              quidem explicabo, vero ab tempore, nulla repellat quibusdam soluta
-              adipisci minima. Accusamus minus possimus eum perferendis.
+              Welcome to my corner of the digital universe! I'm Adarsh, a
+              passionate and detail-oriented Software Engineer from Toronto, ON.
+              Armed with an Advanced Diploma in Game Programming and a
+              Bachelor's degree in Computer Science, I've embarked on a journey
+              driven by excellence in software development and emerging
+              technologies. My quest extends across various domains, from data
+              analysis to quality assurance and web application development. I'm
+              eagerly seeking opportunities to apply my expertise and contribute
+              innovative solutions to progressive teams.
             </p>
             <br />
             <p className=" text-xl">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-              amet suscipit officiis, obcaecati dicta quaerat aspernatur.
-              Asperiores saepe neque, laudantium ex tempore unde qui earum
-              facere rerum. Accusantium, iusto provident.
+              From my experiences as a Unity Developer Intern, where I explored
+              the potential of Augmented Reality in education, to my freelance
+              endeavors crafting websites and game assets, I've honed my skills
+              in diverse areas. Proficient in tools like VS code and frameworks
+              like React Js, I'm equipped to tackle challenges head-on. With a
+              penchant for problem-solving and collaboration, I'm excited to
+              make meaningful contributions to the tech community. Let's
+              innovate, create, and build the future together!
             </p>
           </div>
         </div>

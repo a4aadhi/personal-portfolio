@@ -1,15 +1,16 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import icon from "../assets/icon.png";
+import { Link } from 'react-scroll';
 
 const NavBar = () => {
   const [nav, setNav] = useState(false);
   const Links = [
-    { id: 1, link: "Home" },
-    { id: 2, link: "About" },
-    { id: 3, link: "Portfolio" },
-    { id: 4, link: "Experience" },
-    { id: 5, link: "Contact" },
+    { id: 1, link: "home" },
+    { id: 2, link: "about" },
+    { id: 3, link: "portfolio" },
+    { id: 4, link: "experience" },
+    { id: 5, link: "contact" },
   ];
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
@@ -24,7 +25,7 @@ const NavBar = () => {
               className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-200"
             >
               <a href=""></a>
-              {link}
+              <Link to={link} smooth duration ={500}>{link}</Link>
             </li>
           );
         })}
@@ -43,7 +44,8 @@ const NavBar = () => {
               className="px-4 cursor-pointer capitalize py-6 text-4xl"
             >
               <a href=""></a>
-              {link}
+              <Link to={link} smooth duration ={500} onClick={()=>setNav(!nav)}>{link}</Link>
+              
             </li>
           );
         })}
