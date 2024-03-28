@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <GrDocumentUser size={30} />
         </>
       ),
-      href: "/AdarshMNairResume.pdf",
+      href: "/ResumeAdarshMNair.pdf",
       style: "rounded-br-md",
       download: true,
     },
