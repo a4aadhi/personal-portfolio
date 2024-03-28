@@ -10,7 +10,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: sharewheels,
-      demo:"https://latest-smoky.vercel.app/",
+      demo:"https://latest-a4aadhis-projects.vercel.app/",
       git:"https://github.com/a4aadhi/ShareWheels"
     },
     {
