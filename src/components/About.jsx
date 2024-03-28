@@ -18,21 +18,14 @@ const About = () => {
               Armed with an Advanced Diploma in Game Programming and a
               Bachelor's degree in Computer Science, I've embarked on a journey
               driven by excellence in software development and emerging
-              technologies. My quest extends across various domains, from data
-              analysis to quality assurance and web application development. I'm
-              eagerly seeking opportunities to apply my expertise and contribute
-              innovative solutions to progressive teams.
+              technologies.
             </p>
             <br />
             <p className=" text-xl">
-              From my experiences as a Unity Developer Intern, where I explored
-              the potential of Augmented Reality in education, to my freelance
-              endeavors crafting websites and game assets, I've honed my skills
-              in diverse areas. Proficient in tools like VS code and frameworks
-              like React Js, I'm equipped to tackle challenges head-on. With a
-              penchant for problem-solving and collaboration, I'm excited to
-              make meaningful contributions to the tech community. Let's
-              innovate, create, and build the future together!
+              My quest extends across various domains, from data analysis to
+              quality assurance and web application development. I'm eagerly
+              seeking opportunities to apply my expertise and contribute
+              innovative solutions to progressive teams.
             </p>
           </div>
         </div>
