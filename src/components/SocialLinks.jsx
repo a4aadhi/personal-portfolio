@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/a4adrash/",
+      href: "https://www.linkedin.com/in/a4adarsh",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           Github <FaGithub size={30} />
         </>
       ),
-      href: "https://www.ahttps://github.com/a4aadhi",
+      href: "https://github.com/a4aadhi",
     },
     {
       id: 3,
