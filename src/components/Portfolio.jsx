@@ -17,17 +17,32 @@ const Portfolio = () => {
     },
     {
       id: 2,
+      title: "Crypto Cap",
+      src: "https://freepngimg.com/thumb/bitcoin/59535-cryptocurrency-logo-unlimited-bitcoin-cash-download-free-image.png",
+      demo: "https://crypto-cap-five.vercel.app/",
+      git: "https://github.com/a4aadhi/crypto_cap"
+    },
+    {
+      id: 3,
       title: "TikTok Clone",
       src: tiktok,
       demo: "https://tik-tok-clone-alpha.vercel.app/",
       git: "https://github.com/a4aadhi/TikTokClone"
     },
     {
-      id: 3,
+      id: 4,
       title: "COVID-19 Healthcare Monitor",
       src: covid19,
       demo: "https://comp-308-final-project.vercel.app/",
       git: "https://github.com/a4aadhi/COMP308_FinalProject",
+    },
+    ,
+    {
+      id: 5,
+      title: "StudentHub",
+      src: "https://img.freepik.com/free-vector/hand-drawn-flat-design-mba-illustration_23-2149347419.jpg?t=st=1731779690~exp=1731783290~hmac=3ed6d0a49f39463ce4433c54e3c0148f18a4edcd7a70428c428cff72dab5cf55&w=1060",
+      demo: "https://github.com/a4aadhi/StudentDataCRUDApp",
+      git: "https://github.com/a4aadhi/StudentDataCRUDApp",
     },
   ];
   const games = [
